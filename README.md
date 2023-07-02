@@ -2,10 +2,10 @@
 
 # OfertaLive
 
-#Francisco Márquez
+## Francisco Márquez
 
 
-#Resumen
+# Resumen
 OfertaLive es una plataforma de comercio electrónico que ofrece a los usuarios una compra interactiva en forman de subastas en tiempo real. La página principal de la web presenta los productos disponibles para subasta, destacando los detalles clave, como la descripción, imágenes y el precio inicial.
 
 Los usuarios interesados pueden registrarse de forma gratuita en la plataforma para poder participar en las subastas. Una vez que hayan creado una cuenta, podrán explorar las diferentes categorías de productos disponibles y ver las subastas proximas para poder estar en ellas. Cada subasta mostrará el tiempo restante, la oferta más alta actual y la opción para realizar una oferta. Cuando se acabe el tiempo la oferta mas alta sera la ganadora.
