@@ -18,7 +18,8 @@ En cuanto a beneficio para quien esta vendiendo el articulo, es que al ser una s
 # Historias de usuario.
 
 
-![hisotria de usuario 1](https://github.com/franciscoMarquezBocanegra/Proyecto_ARSW/assets/98216991/b0d0fbe3-e794-411d-a83b-b46758308a6f)
+![Historia usuario comprador - proyecto](https://github.com/franciscoMarquezBocanegra/Proyecto_ARSW/assets/98216991/e68643d4-e8a4-4721-b479-ec92cbe04cc3)
 
 
-![historia de usuario 2](https://github.com/franciscoMarquezBocanegra/Proyecto_ARSW/assets/98216991/94491bbd-d4c8-474f-a02e-f9bce222f9cd)
+![Historia usuario vendedor - proyecto](https://github.com/franciscoMarquezBocanegra/Proyecto_ARSW/assets/98216991/55ac1d00-9eca-4fb4-87b7-c79a716987e6)
+
